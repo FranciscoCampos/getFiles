@@ -1,0 +1,11 @@
+{
+    "name": "nohe/mh-computer",
+    "type": "library",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "francisco campos",
+            "email": "camqui2011@gmail.com"
+        }
+    ]
+}
